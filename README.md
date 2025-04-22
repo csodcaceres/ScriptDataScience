@@ -32,4 +32,9 @@ Script para trabajar con listas
     de frutas del cliente. 
     Crear el código que realice esta selección aleatoria según la lista dada.
 
+#### calcularRaizCuadrada.py
+    Cuadrada de una lista de números, identificando cuáles resultan en un número entero. 
+    La lista es la siguiente:
+
+    numeros = [2, 8, 15, 23, 91, 112, 256, 512, 1024]
 
