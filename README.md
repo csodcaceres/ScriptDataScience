@@ -57,3 +57,8 @@ Script para trabajar con listas
 
     7 x 7 = 7
     7 x 2 = 14
+
+#### listaMultiploDeTres.py
+    Función que lee lista de numeros enteros y devuelva una nueva lista con los múltiplos de 3:
+
+    lista_original = [97, 80, 94, 88, 80, 1, 16, 53, 62, 32, 24, 99]
