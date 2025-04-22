@@ -67,5 +67,5 @@ Script para trabajar con listas
     Crea una lista de los cuadrados de los números de la siguiente.
     Recuerda utilizar las funciones lambda y map() para calcular el cuadrado de cada elemento.
 
-    lista [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. 
+    lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. 
 
