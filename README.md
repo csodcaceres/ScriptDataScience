@@ -50,3 +50,10 @@ Pide al usuario el radio del área circular y devuelve el valor en pesos de cuá
 
     lista = [16, 14, 63, 65, 17, 99, 70, 11, 20, 48, 79, 32, 17, 89, 12, 25, 66]
 
+#### funcionTablaMultiplicar.py
+    Función que genere la tabla de multiplicar de un número entero del 1 al 10, 
+    según la elección del usuario. Como ejemplo, para el número 7, 
+    la tabla de multiplicar se debe mostrar en el siguiente formato:
+
+    7 x 7 = 7
+    7 x 2 = 14
