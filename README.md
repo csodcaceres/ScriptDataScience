@@ -24,3 +24,12 @@ Script para trabajar con listas
     El token debe ser par y variar de 1000 a 9998.
     Escribir un codigo que solicite el nombre de la persona usuaria y muestre un mensaje
     junto a este token generado aleatoriamente.
+
+#### ensaladaFrutasSorpresa.py
+    Para diversificar y atraer nuevos clientes, una restor creó un ítem misterioso en su menú 
+    llamado "ensalada de frutas sorpresa". 
+    En este ítem, se eligen aleatoriamente 3 frutas de una lista para componer la ensalada 
+    de frutas del cliente. 
+    Crear el código que realice esta selección aleatoria según la lista dada.
+
+
