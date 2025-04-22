@@ -14,3 +14,8 @@ Script para trabajar con listas
 #### numeroEnteroMenorAcien.py
     Script que genera de forma aleatoria un numero menor que 100
 
+#### calculoPotenciaElevadoAlSegundo.py
+    Script que solicita al usuario ingresar dos numeros enteros
+    y calcular la potencia del primer numero elevado al segundo
+
+
