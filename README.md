@@ -7,3 +7,6 @@ Script para trabajar con listas
 
 #### importatNumpy.py
     Importacion de libreria numpy con el alias np
+
+#### listaDeNumeros.py
+    Script que lee una lista de numeros y elije uno al azar
