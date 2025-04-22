@@ -10,3 +10,7 @@ Script para trabajar con listas
 
 #### listaDeNumeros.py
     Script que lee una lista de numeros y elije uno al azar
+
+#### numeroEnteroMenorAcien.py
+    Script que genera de forma aleatoria un numero menor que 100
+
