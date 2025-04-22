@@ -69,3 +69,8 @@ Script para trabajar con listas
 
     lista = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. 
 
+#### calculoPuntuacionAtletas.py
+    Analizar las notas recibidas por los skaters en algunas competiciones a lo largo del año, 
+    Crear un código que calcule la puntuación de los atletas. 
+    Para ello, tu código debe recibir 5 notas ingresadas por los jueces
+
