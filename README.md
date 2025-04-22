@@ -44,8 +44,9 @@ Pide al usuario el radio del área circular y devuelve el valor en pesos de cuá
 
 #### mostrarDatosDeUnaLista.py
     Escribe un código que lee la lista siguiente y realiza:
-    - Mostrar el tamaño de la lista (maximo y minimo)
-    - Calcular la suma de los valores de la lista
+    - Mostrar el tamaño de la lista.
+    - Mostrar el maximo y minimo.
+    - Calcular la suma de los valores de la lista.
 
     lista = [16, 14, 63, 65, 17, 99, 70, 11, 20, 48, 79, 32, 17, 89, 12, 25, 66]
 
