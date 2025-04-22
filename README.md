@@ -37,3 +37,8 @@ Script para trabajar con listas
 
     numeros = [2, 8, 15, 23, 91, 112, 256, 512, 1024]
 
+#### precioPorMetroCuadrado.py
+Tienda que vende césped para jardines. 
+Esta tienda trabaja con jardines circulares y el precio del metro cuadrado de césped es de $25,00.
+Pide al usuario el radio del área circular y devuelve el valor en pesos de cuánto tendrá que pagar.
+
