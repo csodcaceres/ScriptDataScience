@@ -62,3 +62,10 @@ Script para trabajar con listas
     Función que lee lista de numeros enteros y devuelva una nueva lista con los múltiplos de 3:
 
     lista_original = [97, 80, 94, 88, 80, 1, 16, 53, 62, 32, 24, 99]
+
+#### listaNumeroCuadrados.py
+    Crea una lista de los cuadrados de los números de la siguiente.
+    Recuerda utilizar las funciones lambda y map() para calcular el cuadrado de cada elemento.
+
+    lista [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]. 
+
