@@ -26,7 +26,7 @@ Script para trabajar con listas
     junto a este token generado aleatoriamente.
 
 #### ensaladaFrutasSorpresa.py
-    Para diversificar y atraer nuevos clientes, una restor creó un ítem misterioso en su menú 
+    Para diversificar y atraer nuevos clientes, una restore creó un ítem misterioso en su menú 
     llamado "ensalada de frutas sorpresa". 
     En este ítem, se eligen aleatoriamente 3 frutas de una lista para componer la ensalada 
     de frutas del cliente. 
